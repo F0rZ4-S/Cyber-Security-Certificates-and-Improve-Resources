@@ -1,4 +1,4 @@
-# cyber-security-certificates-free
+# Cyber-Security-Certificates-and-Improve-Resources
 You can take Cyber security certificates for free or paid
 
 
