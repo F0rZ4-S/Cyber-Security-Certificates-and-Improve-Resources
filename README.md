@@ -4,7 +4,7 @@ You can take Cyber security certificates for free or paid
 
 
 ## Free Certificates
-
+1. [Udemy](https://www.udemy.com/topic/cyber-security/free/) - Free or Paid
 
 ## Paid Certificates
 1. [A+PLUS](https://www.comptia.org/certifications/a)
@@ -18,7 +18,7 @@ You can take Cyber security certificates for free or paid
 
 ## Academy For CyberSecurity
 
-1. PortSwigger
+1. [PortSwigger](https://portswigger.net/) - Learning Ethical Hacking & Bug Bounty
 
 
 
